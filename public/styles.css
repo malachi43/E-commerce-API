@@ -1,0 +1,21 @@
+
+#container { 
+     text-align: center;
+     margin: auto;
+     min-width: fit-content;
+}
+
+#info {
+    font-weight: lighter;
+    font-size:smaller;
+}
+
+#errorCode {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+#notFound {
+    font-weight: bolder;
+    font-size: medium;
+}
