@@ -24,7 +24,7 @@ This API helps to meet your e-commerce needs from creating a user to allowing pr
 5. Use of Json Web Tokens ( JWT ).
 
 <!--- If we have only one group/collection, then no need for the "ungrouped" heading -->
-
+[SEE DOCUMENTATION HERE](./public/index.html)
 
 
 ## Endpoints
